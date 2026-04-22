@@ -1,0 +1,39 @@
+10. Mini Theory Questions
+Ask her to write short answers for:
+● What is a variable?
+ Named location in memory used to store data,that can be changed during program execution.
+
+● Difference between declaration and initialization
+Declaration tells compiler of a variable name and type to reserve memory
+Initialization Assign the variable at its first value
+
+
+● Difference between local and global variable
+Local variable declared inside block,contains garbage value & limited to the specific function
+Global variable declared outside the function,initialized to 0 by default by the compiler & accessible from any part of program
+
+
+● What is static variable?
+Has a lifetime of global variable but the scope of local variable
+
+● Why do we use extern?
+Keyword to declare a variable, that is defined in different file
+
+
+● What is type casting?
+Process of converting a value from one data type to another
+
+
+Simple Application-Based Questions
+1. Which data type can be used to store a temperature value like 36.5?
+Float 
+
+2. Which variable type is useful if a value must be accessed by many functions?
+Global variable
+
+
+3. Why might static be useful when we want a value to retain its previous state?
+Initialized only once and its memory is not cleared when the function ends
+
+4. Which data type would be suitable for storing ON/OFF state?
+Boolean (integer)
