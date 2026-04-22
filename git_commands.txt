@@ -1,0 +1,7 @@
+step1: open folder
+step2: Add files
+step3: git init // initial once//
+step4: add files
+step5: git add .
+step6: git commit -m "write message "
+step7: git push -u origin main
