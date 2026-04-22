@@ -1,0 +1,7 @@
+Declare variables celsius and fahrenheit
+Take temperature input using scanf()
+Apply the conversion formula
+Store the result in fahrenheit
+Input- Enter the temperature in celsius
+Process- apply formula(c*9/5)+32
+Output-displays temperature in Fahrenheit
